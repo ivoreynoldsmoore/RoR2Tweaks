@@ -19,3 +19,6 @@ The cooldown has been reduced so that the ability has a greater up-time.
 The grenade's movement has been made more predictable, so that it is easier to use.
 * The velocity of the projectile has been reduced.
 * The mass of the projectile has been increased.
+
+#### Commando's Tactical Dive
+Commando is invulnerable during the roll.
