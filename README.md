@@ -22,3 +22,5 @@ The grenade's movement has been made more predictable, so that it is easier to u
 
 #### Commando's Tactical Dive
 Commando is invulnerable during the roll.
+
+This project was completed before it was made into a repository, which is why is has so few commits.
